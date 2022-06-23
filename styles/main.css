@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+
+:root {
+    background-color: #fbd9fb;
+    font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+}
+
+.container {
+    margin: auto;
+    margin-top: 5%;
+    width: 80%;
+    height: 70vh;
+    -webkit-box-shadow: 3px 4px 27px -7px #3a3a3a; 
+    box-shadow: 3px 4px 27px -7px #3a3a3a;
+    background-color: #ffff;
+    border-radius: 5%;
+}
