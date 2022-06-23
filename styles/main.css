@@ -8,11 +8,21 @@
 
 .container {
     margin: auto;
-    margin-top: 5%;
+    margin-top: 8px;
     width: 80%;
     height: 70vh;
     -webkit-box-shadow: 3px 4px 27px -7px #3a3a3a; 
     box-shadow: 3px 4px 27px -7px #3a3a3a;
     background-color: #ffff;
     border-radius: 5%;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.logo > img {
+    height: 80px;  
 }
