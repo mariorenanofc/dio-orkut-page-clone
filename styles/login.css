@@ -10,6 +10,7 @@
     margin: auto;
     margin-top: 8px;
     width: 80%;
+    max-width: 450px;
     height: 70vh;
     -webkit-box-shadow: 3px 4px 27px -7px #3a3a3a; 
     box-shadow: 3px 4px 27px -7px #3a3a3a;
